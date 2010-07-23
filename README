@@ -1,0 +1,12 @@
+Features:
+- Call
+- Voicemail
+- Call Logs
+- Settings
+
+What I did:
+- User interface
+- Alerts
+- Voice recording in Call feature under Dial number
+
+* I included voice recording to try sending it via SIP but I wasn't able to retrieve it. I just send it locally to 127.0.0.1. I think there might some headers I wasn't able to set properly.
